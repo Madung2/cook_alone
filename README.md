@@ -23,7 +23,7 @@
 
 ## 3. 아키텍쳐 및 ERD 설계
 - EC2를 사용해 프론트, 백 한번에 배포
-- https://velog.velcdn.com/images/tasha_han_1234/post/1cd07421-bafb-4b63-9a39-7926e41e7405/image.png
+<img src="https://velog.velcdn.com/images/tasha_han_1234/post/1cd07421-bafb-4b63-9a39-7926e41e7405/image.png">
 
 ## 4. 핵심 기능
 
