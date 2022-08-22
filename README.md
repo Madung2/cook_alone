@@ -1,4 +1,5 @@
 # 📌 혼자서도 잘해요리
+<img src="https://velog.velcdn.com/images/tasha_han_1234/post/cdea5acf-3f14-492d-a0be-7e5d87c81249/image.png">
 - 혼자서도 잘해요리는 1인가구 사용자에게 레시피를 검색, 추천 기능을 제공하는 웹입니다.
 - 사용자는 게시된 다양한 레시피를 참조할 수 있습니다.
 - 또한 자신이 레시피를 직접 작성하여 다른 사용자와 공유할 수 있습니다.
@@ -22,6 +23,7 @@
 
 ## 3. 아키텍쳐 및 ERD 설계
 - EC2를 사용해 프론트, 백 한번에 배포
+- https://velog.velcdn.com/images/tasha_han_1234/post/1cd07421-bafb-4b63-9a39-7926e41e7405/image.png
 
 ## 4. 핵심 기능
 
