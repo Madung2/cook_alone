@@ -71,20 +71,20 @@
 
 ## 6. 기타 트러블 슈팅
 <details close>
-  <summary>📌 발표시 긴장하는 문제</summary>
+    <summary><b>📌 발표시 긴장하는 문제</b></summary>
   발표를 담당하게 되었는데 평소 발표할때 긴장하는 경우가 많아서 부담이 많이 되었습니다.
   대본 없이 자연스럽게 말할 수 있을것 같지 않아 대본을 2시간동안 입으로 소리내서 발표 연습을 했습니다. 
   발표를 무리 없이 끝낼 수 있었을 뿐만 아니라 주위 사람들에게 발표를 잘 한다는 평을 들을 수 있었습니다. 
 </details>
 <details close>
-  <summary>📌 배포</summary>
+    <summary><b>📌 배포</b></summary>
   마지막 날에 배포를 하는데 아직 익숙하지 않아서 최대한 빠른 속도로 AWS강의를 듣고 
   사실 기본적인 [리눅스 명령어](https://velog.io/@tasha_han_1234/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80-%EB%82%B4%EC%9D%BC%EB%B0%B0%EC%9B%80%EC%BA%A0%ED%94%84-614-%EC%9E%A5%EA%B3%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B0%9C%ED%91%9C%EC%A0%84%EB%82%A0)도 익숙하지 않았는데 이날 많이 배울 수 있었다.
 </details>
 <details close>
-  <summary>📌이미지 업로드</summary>
+    <summary><b>📌이미지 업로드</b>(https://www.youtube.com/watch?v=YBdpKxFi4pM)</summary>
   당시 아직 imagefield, filefield를 사용해보지 못해 이미지 업로드 하는 전체 과정이 난이도 있게 다가왔다.
-  처음으로 영어 유튜브 튜토리얼을 보고 따라해본 뒤 [다른 팀원들에게 이미지 업로드에 대해 알려주는 시간을 가졌습니다.](https://www.youtube.com/watch?v=YBdpKxFi4pM)
+  처음으로 영어 유튜브 튜토리얼을 보고 따라해본 뒤 다른 팀원들에게 이미지 업로드에 대해 알려주는 시간을 가졌습니다
 </details>
 
 
