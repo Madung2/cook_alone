@@ -35,21 +35,21 @@
 - 2000여개에 달하는 레시피를 서버 부하를 줄이며 보여주기 위해 장고 페이지네이션 기능을 사용했습니다.<br>
 </details>
 <details close>
-  <summary><b>📌 레시피 추천</b></summary>
+  <summary>📌 레시피 추천</summary>
    Mecab 토크나이저를 사용해 레시피를 키워드로 나누고 이를 벡터모델을 사용해 유사한 다른 레시피를 추천했습니다. 결과적으로 96%이상에 육박하는 높은 정확도를 보였습니다.
 </details>
 <details close>
-  <summary><b>📌 마이페이지</b></summary>
+  <summary>📌 마이페이지</summary>
   -내가 작성한 글, 댓글, 북마크한 요리를 모아볼 수 있습니다<br>
   -랜덤한 요리 레시피 이미지가 뜨는 기능을 구현했습니다.  
 </details>
 <details close>
-  <summary><b>📌 레시피 작성</summary>
+  <summary>📌 레시피 작성</summary>
 - 로그인 한 사용자는 이미지를 포함한 레시피를 작성할 수 있습니다
 - 로그인 한 사용자는 다른이용자가 작성한 게시물에 댓글을 작성 할 수 있으며, 좋아요도 달 수 있습니다
 </details>
 <details close>
-  <summary><b>📌 회원가입, 로그인 및 기타 CRUD</b></summary>
+  <summary>📌 회원가입, 로그인 및 기타 CRUD</summary>
 - 사용자는 사이트 자체에서 회원가입과 로그인을 사용하여 웹에 접근할 수 있습니다.
 - 회원가입은 아이디, 비밀번호, 닉네임을 기입하여 회원가입 버튼을 클릭해서 회원 데이터를 저장합니다. 
 </details>
